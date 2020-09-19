@@ -1,5 +1,5 @@
 The FIND project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-The project is personal app built to find places to Eat, Sleep, Drink, and have a good time.  
+The project is personal app built to find places to Eat, Sleep, Drink, and Have Fun.  
 
 
 - [Available Scripts](#available-scripts)
